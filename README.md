@@ -10,7 +10,7 @@
 <img align="right" alt="Coding" width="300" src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif">
 - 🔭 I’m currently working on **AI Chatbot for Google Books**
 
-- 🌱 I’m currently learning **Next.js, Spring boot**
+- 🌱 I’m currently learning **Next.js, OpenSource and System Design**
 
 - 👨‍💻 All of my projects are available at [https://github.com/pushkarr999](https://github.com/pushkarr999)
 
